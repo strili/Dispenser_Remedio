@@ -1,6 +1,9 @@
 # Dispenser de Remedio
-Este trabalho aborda o desenvolvimento de um sistema de alarme automático com dispenser para medicamentos utilizando ESP-32 com RTC.. 
-Autores:
+Este trabalho aborda o desenvolvimento de um sistema de alarme automático com dispenser para medicamentos utilizando ESP-32 com RTC.
+Autores: 
+- Gustavo Strilicherk Pinto RA: 20.01071-0
+- Henrique Baraldi Cogo RA: 21.01811-0
+- Rafael Callegaris Dias RA: 21.00531-0
 
 # Introdução
 A proposta desse projeto é o desenvolvimento de um sistema automático para liberação de remédios em 2 horários determinados via código. Como também, é a implementação de um botão que permita que o usuário despeje ou abasteça o remédio quando desejar.
