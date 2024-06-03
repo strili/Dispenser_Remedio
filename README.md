@@ -4,6 +4,7 @@ Autores:
 - Gustavo Strilicherk Pinto RA: 20.01071-0
 - Henrique Baraldi Cogo RA: 21.01811-0
 - Rafael Callegaris Dias RA: 21.00531-0
+- Lucas Silva Anholeto RA: 21.02145-7
 
 # Introdução
 A proposta desse projeto é o desenvolvimento de um sistema automático para liberação de remédios em 2 horários determinados via código. Como também, é a implementação de um botão que permita que o usuário despeje ou abasteça o remédio quando desejar.
