@@ -694,5 +694,13 @@ A proposta deste sistema é ser um dispensador automático de medicamentos. Atra
     MOTOR_AMBOS     = 6,
      }Motor;
 
+ # Imagens do Projeto
  
+![WhatsApp Image 2024-06-05 at 3 42 22 PM](https://github.com/strili/Dispenser_Remedio/assets/171040960/e478b953-70f4-4580-892b-18404fa856e8)
+![WhatsApp Image 2024-06-05 at 3 42 20 PM](https://github.com/strili/Dispenser_Remedio/assets/171040960/bd631fd6-897b-40e7-9ea5-e4b38eca78b5)
+![WhatsApp Image 2024-06-05 at 3 42 22 PM (1)](https://github.com/strili/Dispenser_Remedio/assets/171040960/fc4a20b3-fb37-4cab-b962-505b65fbfdc3)
+
+# Vídeo do Projeto
+
+https://github.com/strili/Dispenser_Remedio/assets/171040960/98a0ead7-82ac-410b-9c73-890fc9d6de5d
 
